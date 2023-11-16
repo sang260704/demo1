@@ -7,7 +7,7 @@ package com.edusys.entity;
 
 /**
  *
- * @author Sangnvpc06179
+ * @author Huynhltnpc06165
  */
 public class NhanVien {
 
